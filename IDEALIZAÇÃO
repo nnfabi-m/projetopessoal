@@ -1,0 +1,4 @@
+Iniciarei com Flutter para ter o app e o SQLite para o banco de dados. Minha única intenção no momento é montar um simples aplicativo com registro local 
+e login local, sem validação ainda de nenhum tipo de dado, já que a parte de cibersegurança será deixada para um outro momento. Somado também a um único 
+local de inserção de dados, que possuirá um botão para envio das informações e um outro botão para acessar o banco de dados que dará a possibilidade do 
+usuário de remover o dado enviado. O banco de dados deve saber distinguir as informações enviadas, como um número (int, float) ou como um texto (array, varchar).
